@@ -28,7 +28,7 @@ The name of this environment is AOS, which you will input in any code above that
 
 ## Step 4: Download ANDRO and EM-APEX data 
 1. The ANDRO data was too large a file to upload to this repo, so I recommend downloading it from ![SEANOA](https://www.seanoe.org/data/00360/47077/); I used the "Data Release 2022" which was a .dat file! 
-2. EM-APEX data can be accessed in the files of this repository titled "..."
+2. EM-APEX data may have more restricted access, for now the actual data files are available to those who request access in a google drive folder - https://drive.google.com/drive/u/0/folders/1BvXYwmgoX-ykYWAyKgMihT0gSBF3FFqH. The data you will want to download to run my code on your own include the "vel_gps_interpolated.parquet" and "ctd_points_allexperiments.parquet" files; for permission to access please contact either James Girton at girton@uw.edu or Emilio Mayorga at Emilio Mayorga at emiliom@uw.edu.
 
 ## Step 5: Optional 
 For more information on Argo as a program, you can also fork this ![repo](https://github.com/emiliom/argoonlineschool/tree/em_notebook_fixes) that my mentor, Emilio Mayorga, provided that has fixed many of the existing coding errors that ARGO Online School had with its existing notebooks as of August 2023. It also contains the environment file you needed in Step 3. This Argo Online school provides more information about the Argo float program, data management, and other means of accessing data that I did not utalize in depth but might be helpful for other projects.
