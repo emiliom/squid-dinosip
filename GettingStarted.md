@@ -8,7 +8,7 @@ The first step I took was installing the package manager, mambaforge, so that I 
 
 To install mambaforge, I used the following ![instructions](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html) curteosy of Mara Lampert.
 
-## Step 2: Know how to navigate your local computer directory.
+## Step 3: Know how to navigate your local computer directory.
 
 This includes basic commands (all mine are for Windows, consult google or ChatGPT if you have a different operator) to input into your terminal:
 
@@ -16,10 +16,10 @@ This includes basic commands (all mine are for Windows, consult google or ChatGP
 2. How to check your directories (folders) - "dir"
 3. How to move to another directory (change directories) - "cd FOLDER_NAME"
 4. How to go back to the previous directory - "cd .."
-5. How to create a new python package environment; But first navigate to the directory you have the environment.yml file saved in which is available in the files on the repository - "mamba env create -f environment.yml" 
-6. How to see what packages are in your environment - "pip list"
-7. How to activate said environment - "mamba activate NAME_OF_ENVIRONMENT"
-8. How to deactivate said environment - "mamba deactivate"
-9. How to activate JupyterLab within that environment, after opening the environment - "jupyter lab"
+5. How to see what packages are in your environment - "pip list"
+6. How to activate said environment - "mamba activate NAME_OF_ENVIRONMENT"
+7. How to deactivate said environment - "mamba deactivate"
+8. How to activate JupyterLab within that environment, after opening the environment - "jupyter lab"
 
 ## Step 3: Create an environment with the correct packages needed (I have provided the environment you will need in the files titled "..."):
+. How to create a new python package environment; But first navigate to the directory you have the environment.yml file saved in which is available in the files on the repository - "mamba env create -f environment.yml" 
