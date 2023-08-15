@@ -24,7 +24,7 @@ This includes basic commands (all mine are for Windows, consult google or ChatGP
 ## Step 3: Create an environment with the correct packages needed (I have provided the environment you will need in the files titled "environment.yml"):
 Whether you have forked this repo or are chosing which files to download, navigate to the directory that contains the "environment.yml" file in your terminal.
 Then input the following code: "mamba env create -f environment.yml" 
-The name of this environment is AOS, which you will input in any code above that included "NAME_OF_ENVIRONMENT". You can also add packages to this environment, but make sure it does not interfere with the version of other installed packages as this includes all the code you will need to access Argo data.
+The name of this environment is AOS, which you will input in any code above that included "NAME_OF_ENVIRONMENT". You can also add packages to this environment, but make sure it does not interfere with the version of other installed packages as this includes all the code you will need to access Argo data and rerun my code.
 
 ## Step 4: Download ANDRO and EM-APEX data 
 1. The ANDRO data was too large a file to upload to this repo, so I recommend downloading it from ![SEANOA](https://www.seanoe.org/data/00360/47077/); I used the "Data Release 2022" which was a .dat file! 
