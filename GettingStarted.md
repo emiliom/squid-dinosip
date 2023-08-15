@@ -21,5 +21,12 @@ This includes basic commands (all mine are for Windows, consult google or ChatGP
 7. How to deactivate said environment - "mamba deactivate"
 8. How to activate JupyterLab within that environment, after opening the environment - "jupyter lab"
 
-## Step 3: Create an environment with the correct packages needed (I have provided the environment you will need in the files titled "..."):
-. How to create a new python package environment; But first navigate to the directory you have the environment.yml file saved in which is available in the files on the repository - "mamba env create -f environment.yml" 
+## Step 3: Create an environment with the correct packages needed (I have provided the environment you will need in the files titled "environment.yml"):
+Whether you have forked this repo or are chosing which files to download, navigate to the directory that contains the "environment.yml" file in your terminal.
+Then input the following code: "mamba env create -f environment.yml" 
+The name of this environment is AOS, which you will input in any code above that included "NAME_OF_ENVIRONMENT". You can also add packages to this environment, but make sure it does not interfere with the version of other installed packages as this includes all the code you will need to access Argo data.
+
+## Step 4: Download ANDRO and EM-APEX data (I have also provided these in the files of this repo for your convienence).
+
+## Step 5: Optional 
+For more information on Argo as a program, you can also fork this ![repo](https://github.com/emiliom/argoonlineschool/tree/em_notebook_fixes) that my mentor, Emilio Mayorga, provided that has fixed many of the existing coding errors that ARGO Online School had with its existing notebooks as of August 2023. It also contains the environment file you needed in Step 3. This Argo Online school provides more information about the Argo float program, data management, and other means of accessing data that I did not utalize in depth but might be helpful for other projects.
