@@ -19,8 +19,10 @@ The purpose of this repository is to share insight into the code development and
 
 There will be some insight to results integrated in the code, but the conceptual background research and explicit results are better explained in the following resources I have included here:
 1. A PowerPoint Slideshow of all Concepts Learned + Some Highlights of the DINO SIP Programing itself...
-2. A Poster summarizing the project process that can be seen below or can be downloaded via this file...
-3. A technical paper giving a more detailed layout of further insights and the project itself meant to compliment the poster that can be accessed here...
+2. A Poster summarizing the project process that can be seen in the files labeled "EPawelkaDINOSIP&URPActualFinalPoster" or directly downloaded here [EPawelkaDINOSIP&URPActualFinalPoster.pdf](https://github.com/ElizabethP712/squid-dinosip/files/12353471/EPawelkaDINOSIP.URPActualFinalPoster.pdf).
+4. A technical paper giving a more detailed layout of further insights and the project itself meant to compliment the poster that can be downloaded here [EPawelkaTechnicalReportDINOSIPProject.docx](https://github.com/ElizabethP712/squid-dinosip/files/12353477/EPawelkaTechnicalReportDINOSIPProject.docx).
 
 ## Credits
-I would ultimately like to recognize
+Many thanks to the sponsors of the DINO SIP (Diverse Inclusive Naval Oceanographic Summer Internship Program) at APL, that include the Department of NAVY and the Office of Naval Research, to my program coordinator Dr. Amanda Labrado for her continuous support and my mentors Emilio Mayorga, James Girton, and Zoltan Szuts, and to the National Science Foundation (NSF) which sponsors the larger APL SQUID project that this one stems from.
+
+Additional recognition goes to both Argo and ANDRO for providing public data collected and made freely available by the International Argo Program and the national programs that contribute to it (https://argo.ucsd.edu ,  https://www.ocean-ops.org)!
