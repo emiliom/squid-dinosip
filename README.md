@@ -1,6 +1,9 @@
 # DINOSIP2023 - A Comparative Assessment Between Two Depth-Profiling Systems on Ocean Salinity, Temperature, and Velocity off Hawaiian Coast
 By Elizabeth Pawelka, Mentored by Emilio Mayorga
 
+### Messages from Author
+Currently the server in which all my code pulls from is experiencing some technical difficulties. I have posted all the notebooks that my project used that summarizes the code that works when the erddap Argo server is up and running. Thanks for your patience!
+
 ## Quick Introduction to the Program and Author
 During the Summer of 2023 I completed a 9-week program titled the Diverse and Inclusive Naval Oceanographic (DINO) Summer Internship Program (SIP) at the Applied Physics Laboratory (APL) at the University of Washington. At the time of the program I was going into my third year as a physics/astronomy major at UW, and was looking forward to learning more about the physical properties of the ocean, python coding, autonomous vehicles, and big data management in anticipation of overlap with future research on subglobal icy worlds in our Solar System and beyond in the field of Astronomy.
 
