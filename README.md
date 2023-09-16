@@ -23,8 +23,7 @@ The purpose of this repository is to share insight into the code development and
 There will be some insight to results integrated in the code, but the conceptual background research and explicit results are better explained in the following resources I have included here:
 1. A PowerPoint Slideshow of all Concepts Learned + Some Highlights of the DINO SIP Programing itself...
 2. A Poster summarizing the project process that can be seen in the files labeled "EPawelkaDINOSIP&URPActualFinalPoster" or directly downloaded here [EPawelkaDINOSIP&URPFinalPosterFixed.pdf](https://github.com/ElizabethP712/squid-dinosip/files/12364246/EPawelkaDINOSIP.URPFinalPosterFixed.pdf).
-
-4. A technical paper giving a more detailed layout of further insights and the project itself meant to compliment the poster that can be downloaded here [EPawelkaTechnicalReportDINOSIPProject.docx](https://github.com/ElizabethP712/squid-dinosip/files/12364253/EPawelkaTechnicalReportDINOSIPProject.docx).
+3. A technical paper giving a more detailed layout of further insights and the project itself meant to compliment the poster that can be downloaded here [EPawelkaTechnicalReportDINOSIPProject.docx](https://github.com/ElizabethP712/squid-dinosip/files/12639874/EPawelkaTechnicalReportDINOSIPProject.docx).
 
 
 ## Credits
