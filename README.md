@@ -21,7 +21,7 @@ This project mainly focused on understanding the similarities and differences be
 The purpose of this repository is to share insight into the code development and processing behind the scenes of this project and to provide insight as to what I have learned about cross referencing Argo and EM-APEX data.
 
 There will be some insight to results integrated in the code, but the conceptual background research and explicit results are better explained in the following resources I have included here:
-1. A PowerPoint Slideshow of all Concepts Learned + Some Highlights of the DINO SIP Programing itself...
+1. A PowerPoint Slideshow of all Concepts Learned + Some Highlights of the DINO SIP Programing itself can be viewed at this link - https://1drv.ms/p/s!AkJel2YbFQQRgZMCTmunLlYco2-gtA?e=w3kurl.
 2. A Poster summarizing the project process that can be seen in the files labeled "EPawelkaDINOSIP&URPActualFinalPoster" or directly downloaded here [EPawelkaDINOSIP&URPFinalPosterFixed.pdf](https://github.com/ElizabethP712/squid-dinosip/files/12364246/EPawelkaDINOSIP.URPFinalPosterFixed.pdf).
 3. A technical paper giving a more detailed layout of further insights and the project itself meant to compliment the poster that can be downloaded here [EPawelkaTechnicalReportDINOSIPProject.docx](https://github.com/ElizabethP712/squid-dinosip/files/12639874/EPawelkaTechnicalReportDINOSIPProject.docx).
 
